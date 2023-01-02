@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class SchoolSystem {
 	
-
+//sql
 	static String Url = "jdbc:sqlserver://localhost : 1433; databaseName= SchoolMgt ;encrypt = true ; trustServerCertificate = true";
 	static String User = "sa";
 	static String Pass = "root";
